@@ -1,4 +1,4 @@
-readme_content = """# Statistical Analysis of Chemical Transformation Kinetics using MCMC
+
 
 This repository contains a Python implementation of the methodology described in the paper **"Statistical Analysis of Chemical Transformation Kinetics Using Markov-Chain Monte Carlo Methods" (Görlitz et al., 2011)**. 
 
