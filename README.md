@@ -4,7 +4,7 @@ This repository contains a Python implementation of the methodology described in
 
 The code uses Markov-Chain Monte Carlo (MCMC) sampling to determine the posterior probability distributions of chemical degradation parameters (such as degradation rates and formation fractions) in a parent-metabolite kinetic system, replacing traditional non-linear least-squares point estimates with robust uncertainty quantification.
 
-## 🚀 Features
+##  Features
 
 * **Kinetic ODE Modeling:** Numerically integrates a system of Ordinary Differential Equations representing a Parent $\\rightarrow$ Metabolite transformation.
 * **Synthetic Data Generation:** Generates artificial experimental baseline data with simulated Gaussian noise to validate parameter recovery.
@@ -13,7 +13,7 @@ The code uses Markov-Chain Monte Carlo (MCMC) sampling to determine the posterio
   * Generates a **Corner Plot** to visualize parameter correlations and marginal probability distributions.
   * Plots the **Predictive Uncertainty** against the synthetic observation data to show the goodness-of-fit and credible intervals.
 
-## 🛠️ Prerequisites
+##  Prerequisites
 
 To run this code, you will need Python 3.7+ and the following scientific libraries. You can install all dependencies via `pip`:
 
